@@ -4,14 +4,13 @@ Jasmine Demo
 A very simple jasmine demo and how to run it in command line
 
 ```
-npm install -g jasmine
 npm install
 ```
 
 Run test:
 
 ```
-jasmine
+npm test
 ```
 
 How to create the `jasmine.json`
