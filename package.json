@@ -3,6 +3,7 @@
     "test": "jasmine"
   },
   "devDependencies": {
+    "@types/node": "8.0.29",
     "jasmine": "^3.2.0"
   }
 }
